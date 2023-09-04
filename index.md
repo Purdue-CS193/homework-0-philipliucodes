@@ -2,5 +2,5 @@
 
 ## Things I Like About About CS193
 - the instructors
-- the relaced pace of the class
+- the relaxed pace of the class
 - the 9:30 AM start time
